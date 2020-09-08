@@ -8,6 +8,6 @@ Hello everybody
 #### Chanin Chongtanapaitoon (Jojo)
 #### Pareploy Leelahalamlert (Pare)
 #### Nathaporn Buathong
-#### Sakul Montha (Gique)
 #### Napatr Tansutiraphong (Mart)
 #### Phatcharapon Sookmee (Benz)
+#### Treerawat Homkaechan (pan)
