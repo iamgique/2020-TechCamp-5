@@ -3,7 +3,7 @@ Hello everybody
 
 #  Fill your name
 #### Sakul Montha (Gique)
-#### Worachai Wuttiworachai (Benz)
+#### Worachai Wuttiworachairung (Benz)
 #### Phatchanon Sangsuriyothai (Jai)
 #### Chanin Chongtanapaitoon (Jojo)
 #### Pareploy Leelahalamlert (Pare)
